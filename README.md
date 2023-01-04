@@ -1,5 +1,5 @@
-- 👋 JS/TS
-- 📫 How to reach me.. [pedrohenriquebtccinst@gmail.com]
+- JS/TS
+- se quiser entrar em contato comigo por qualquer motivo -> pedrohenriquebtccinst@gmail.com
 
 <!---
 pedrogatinhos/pedrogatinhos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
