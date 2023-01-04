@@ -1,5 +1,5 @@
-- JS/TS
---> pedrohenriquebtccinst@gmail.com
+- ts
+- -> pedrohenriquebtccinst@gmail.com
 
 <!---
 pedrogatinhos/pedrogatinhos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
