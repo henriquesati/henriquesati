@@ -1,5 +1,6 @@
 - ts
 - -> pedrohenriquebtccinst@gmail.com
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/pedrogatinhos/github-readme-stats)
 
 <!---
 pedrogatinhos/pedrogatinhos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
